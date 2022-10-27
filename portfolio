@@ -39,13 +39,13 @@
               </a>
             </td>
             <td>
-              <a href="#">
-                <font face="arial" color="#ffffff" size="3">Portfolio</font>
+              <a href="#projects">
+                <font face="arial" color="#ffffff" size="3">Projects</font>
               </a>
             </td>
             <td>
-              <a href="#">
-                <font face="arial" color="#ffffff" size="3">Team</font>
+              <a href="#activities">
+                <font face="arial" color="#ffffff" size="3">Activities</font>
               </a>
             </td>
             <td>
@@ -161,7 +161,7 @@
     </tr>
   </table>
   <!--End About-->
-  <!-- Start skills -->
+  <!-- Start skills-->
   <table border="0" id="skills" width="100%" cellpadding="0" cellspacing="0" bgcolor="#292929">
     <tr>
       <td>
@@ -355,6 +355,271 @@
   </table>
   <!-- End skills -->
   <!-- start interests -->
+  <table border="0" id="skills" width="100%" cellpadding="0" cellspacing="0" bgcolor=" #404040">
+    <tr>
+      <td>
+        <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+          <!-- Heading skills Start -->
+          <tr>
+            <td>
+              <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                <tr>
+                  <td height="160" align="center" valign="middle" colspan="2">
+                    <font face="arial" size="6" color="#f3971b" align="center">Interests</font>
+                    <hr width="70" color="#f3971b" />
+                  </td>
+                </tr>
+                <!-- Heading skills Ends-->
+                <tr>
+                  <td width="10%" align="centre" valign="top">
+                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                      <tr>
+                        <td align="center" valign="middle" bgcolor="#353535" height="15" width="10">
+                          <font size="6" color="#f3971b">
+                            <i class="fa-regular fa-file-code"></i>
+                          </font>
+                          <font size="5" color="#ffffff" face="arial">Competitive Programming </font>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td width="10%" align="centre" valign="top">
+                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                      <tr>
+                        <td align="center" valign="middle" bgcolor="#353535" height="15">
+                          <font size="6" color="#f3971b">
+                            <i class="fa-solid fa-window-maximize"></i>
+                          </font>
+                          <font size="5" color="#ffffff" face="arial"> Website Development </font>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td width="10%" align="centre" valign="top">
+                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                      <tr>
+                        <td align="center" valign="middle" bgcolor="#353535" height="15">
+                          <font size="6" color="#f3971b">
+                            <i class="fa-brands fa-github"></i>
+                          </font>
+                          <font size="5" color="#ffffff" face="arial"> Open - Source </font>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <!-- end interests -->
+  <!-- start profiles -->
+  <table border="0" id="skills" width="100%" cellpadding="0" cellspacing="0" bgcolor="#292929">
+    <tr>
+      <td>
+        <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+          <!-- Heading skills Start -->
+          <tr>
+            <td>
+              <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                <tr>
+                  <td height="160" align="center" valign="middle" colspan="2">
+                    <font face="arial" size="6" color="#f3971b" align="center">Profiles</font>
+                    <hr width="70" color="#f3971b" />
+                  </td>
+                </tr>
+                <!-- Heading skills Ends-->
+                <tr>
+                  <td width="10%" align="centre" valign="top">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
+                      <tr>
+                        <td align="center" valign="middle" bgcolor="#353535" height="15" width="10">
+                          <font size="6" color="#f3971b">
+                            <i class="fa-regular fa-chess-king"></i>
+                          </font>
+                          <a href="https://www.codechef.com/users/sehaj_4026">
+                            <font size="5" color="#0066ff" face="arial">Codechef</font>
+                          </a>
+                          <br>
+                          <font size="4" color="#ffffff" face="arial">⭐</font>
+
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td width="10%" align="centre" valign="top">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
+                      <tr>
+                        <td align="center" valign="middle" bgcolor="#353535" height="15">
+                          <font size="6" color="#f3971b">
+                            <i class="fa-solid fa-chart-simple"></i>
+                          </font>
+                          <a href="https://codeforces.com/profile/sehajkahlon437">
+                            <font size="5" color="#0066ff" face="arial">Codeforces</font>
+                          </a>
+                          <br />
+                          <font size="4" color="#ffffff" face="arial">DESIGNATION</font>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td width="10%" align="centre" valign="top">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
+                      <tr>
+                        <td align="center" valign="middle" bgcolor="#353535" height="15">
+                          <font size="6" color="#f3971b">
+                            <i class="fa-brands fa-wolf-pack-battalion"></i>
+                          </font>
+                          <a href="https://atcoder.jp/users/Sehaj_4026">
+                            <font size="5" color="#0066ff" face="arial">atcoder </font>
+                          </a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td width="10%" align="centre" valign="top">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
+                      <tr>
+                        <td align="center" valign="middle" bgcolor="#353535" height="15">
+                          <font size="6" color="#f3971b">
+                            <i class="fa-brands fa-github"></i>
+                          </font>
+                          <a href="https://github.com/Sehaj-kahlon">
+                            <font size="5" color="#0066ff" face="arial">Github </font>
+                          </a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td width="10%" align="centre" valign="top">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
+                      <tr>
+                        <td align="center" valign="middle" bgcolor="#353535" height="15" width="10">
+                          <font size="6" color="#f3971b">
+                            <i class="fa-brands fa-linkedin"></i>
+                          </font>
+                          <a href="#">
+                            <font size="5" color="#0066ff" face="arial">Linkedin</font>
+                          </a>
+                          <br>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <!-- end profiles -->
+  <!-- start projects  -->
+  <table border="0" id="projects" width="100%" cellpadding="0" cellspacing="0" bgcolor="#353535">
+    <tr>
+      <td>
+        <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+          <!-- Heading projects Start -->
+          <tr>
+            <td>
+              <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                <tr>
+                  <td height="160" align="center" valign="middle" colspan="2">
+                    <font face="arial" size="6" color="#f3971b" align="center">Projects</font>
+                    <hr width="70" color="#f3971b" />
+                  </td>
+                </tr>
+                <!-- Heading projects Ends-->
+                <tr>
+                  <td width="10%" align="centre" valign="top">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
+                      <tr>
+                        <td align="center" valign="middle" bgcolor="#1a1a1a" height="200" width="200">
+                          <font size="6" color="#f3971b">
+                            <i class="fa-regular fa-file"></i>
+                          </font>
+                          <font size="5" color="#ffffff" face="arial">Project 1 </font>
+                          <br />
+                          <font size="3" color="#ffffff">&Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                            Similique animi odit fuga
+                            veritatis. Consequatur dolor fugit nam eveniet earum omnis nulla vitae sed ea a. Temporibus
+                            fuga odit ipsam neque.</font>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td width="10%" align="centre" valign="top">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
+                      <tr>
+                        <td align="center" valign="middle" bgcolor="#1a1a1a" height="200" width="200">
+                          <font size="6" color="#f3971b">
+                            <i class="fa-regular fa-file"></i>
+                          </font>
+                          <font size="5" color="#ffffff" face="arial">Project 2 </font>
+                          <br />
+                          <font size="3" color="#ffffff">&Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                            Similique animi odit fuga
+                            veritatis. Consequatur dolor fugit nam eveniet earum omnis nulla vitae sed ea a. Temporibus
+                            fuga odit ipsam neque.</font>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td width="10%" align="centre" valign="top">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
+                      <tr>
+                        <td align="center" valign="middle" bgcolor="#1a1a1a" height="200" width="200">
+                          <font size="6" color="#f3971b">
+                            <i class="fa-regular fa-file"></i>
+                          </font>
+                          <font size="5" color="#ffffff" face="arial">Project 3</font>
+                          <br />
+                          <font size="3" color="#ffffff">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                            Similique animi odit fuga
+                            veritatis. Consequatur dolor fugit nam eveniet earum omnis nulla vitae sed ea a. Temporibus
+                            fuga odit ipsam neque.</font>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <!-- activities and interpersonal skills  -->
+  <table border="0" id="activities" width="100%" cellpadding="0" cellspacing="0" bgcolor="#292929">
+    <tr>
+      <td>
+        <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+          <!-- Heading activities Start -->
+          <tr>
+            <td>
+              <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+                <tr>
+                  <td height="160" align="center" valign="middle" colspan="2">
+                    <font face="arial" size="6" color="#f3971b" align="center">Activities and Interpersonal Skills
+                    </font>
+                    <hr width="400" color="#f3971b" />
+                  </td>
+                </tr>
+                <!-- Heading activities Ends-->
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 </body>
 
 </html>
