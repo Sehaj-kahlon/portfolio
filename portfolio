@@ -49,7 +49,7 @@
               </a>
             </td>
             <td>
-              <a href="#">
+              <a href="#contact">
                 <font face="arial" color="#ffffff" size="3">Contact</font>
               </a>
             </td>
@@ -59,6 +59,7 @@
     </tr>
   </table>
   <!--header ends-->
+
   <!--start home-->
   <table border="0" id="home" width="100%" cellpadding="0" cellspacing="0" bgcolor="#292929">
     <tr>
@@ -85,6 +86,7 @@
     </tr>
   </table>
   <!--end home-->
+
   <!--Start About-->
   <table border="0" id="about" width="100%" cellpadding="0" cellspacing="0" bgcolor="#353535">
     <!-- Heading Start -->
@@ -144,7 +146,7 @@
                     </button>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <button type="button">
-                      <font face="arial" size="5">Achivements</font>
+                      <font face="arial" size="5">Certificates</font>
                     </button>
                   </td>
                 </tr>
@@ -161,17 +163,18 @@
     </tr>
   </table>
   <!--End About-->
+
   <!-- Start skills-->
-  <table border="0" id="skills" width="100%" cellpadding="0" cellspacing="0" bgcolor="#292929">
+  <table border="0" id="skills" width="100%" cellpadding="0" cellspacing="0" bgcolor="#262626">
     <tr>
       <td>
-        <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+        <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center" bgcolor="#292929">
           <!-- Heading skills Start -->
           <tr>
             <td>
               <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
                 <tr>
-                  <td height="160" align="center" valign="middle" colspan="2">
+                  <td height="60" align="center" valign="middle" colspan="2">
                     <font face="arial" size="6" color="#f3971b" align="center">Skills</font>
                     <hr width="70" color="#f3971b" />
                   </td>
@@ -354,17 +357,18 @@
     </tr>
   </table>
   <!-- End skills -->
+
   <!-- start interests -->
-  <table border="0" id="skills" width="100%" cellpadding="0" cellspacing="0" bgcolor=" #404040">
+  <table border="0" id="skills" width="100%" cellpadding="0" cellspacing="0" bgcolor=" #262626">
     <tr>
       <td>
-        <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+        <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center" bgcolor="#404040">
           <!-- Heading skills Start -->
           <tr>
             <td>
               <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
                 <tr>
-                  <td height="160" align="center" valign="middle" colspan="2">
+                  <td height="60" align="center" valign="middle" colspan="2">
                     <font face="arial" size="6" color="#f3971b" align="center">Interests</font>
                     <hr width="70" color="#f3971b" />
                   </td>
@@ -416,17 +420,18 @@
     </tr>
   </table>
   <!-- end interests -->
+
   <!-- start profiles -->
-  <table border="0" id="skills" width="100%" cellpadding="0" cellspacing="0" bgcolor="#292929">
+  <table border="0" id="skills" width="100%" cellpadding="0" cellspacing="0" bgcolor="#262626">
     <tr>
       <td>
-        <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+        <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center" bgcolor="#292929">
           <!-- Heading skills Start -->
           <tr>
             <td>
               <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
                 <tr>
-                  <td height="160" align="center" valign="middle" colspan="2">
+                  <td height="60" align="center" valign="middle" colspan="2">
                     <font face="arial" size="6" color="#f3971b" align="center">Profiles</font>
                     <hr width="70" color="#f3971b" />
                   </td>
@@ -520,6 +525,7 @@
     </tr>
   </table>
   <!-- end profiles -->
+
   <!-- start projects  -->
   <table border="0" id="projects" width="100%" cellpadding="0" cellspacing="0" bgcolor="#353535">
     <tr>
@@ -530,7 +536,7 @@
             <td>
               <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
                 <tr>
-                  <td height="160" align="center" valign="middle" colspan="2">
+                  <td height="120" align="center" valign="middle" colspan="2">
                     <font face="arial" size="6" color="#f3971b" align="center">Projects</font>
                     <hr width="70" color="#f3971b" />
                   </td>
@@ -596,6 +602,8 @@
       </td>
     </tr>
   </table>
+  <!-- end projects -->
+
   <!-- activities and interpersonal skills  -->
   <table border="0" id="activities" width="100%" cellpadding="0" cellspacing="0" bgcolor="#292929">
     <tr>
@@ -604,22 +612,154 @@
           <!-- Heading activities Start -->
           <tr>
             <td>
-              <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+              <table border="0" width="85%" height="100" cellpadding="15" cellspacing="0" align="center"
+                bgcolor="#292929">
                 <tr>
-                  <td height="160" align="center" valign="middle" colspan="2">
+                  <td height="120" align="center" valign="middle" colspan="2">
                     <font face="arial" size="6" color="#f3971b" align="center">Activities and Interpersonal Skills
                     </font>
                     <hr width="400" color="#f3971b" />
                   </td>
                 </tr>
-                <!-- Heading activities Ends-->
               </table>
+              <table border="0" width="85%" height="100" cellpadding="15" cellspacing="0" align="center"
+                bgcolor="#353535">
+                <tr>
+                  <td height="100" valign="middle" colspan="2">
+                    <table border="0" width="85%" height="100" cellpadding="15" cellspacing="0" align="center"
+                      bgcolor="#353535">
+                      <tr>
+                        <td height="100" valign="middle" colspan="2">
+                          <font face="arial" size="5" color="#f3971b" align="center">Activities
+                          </font>
+                          <br />
+                          <font face="arial" size="4" color="#ffffff" align="center">1.&Lorem ipsum dolor sit amet
+                            consectetur adipisicing elit. Porro eligendi
+                            <br />2.quibusdam similique aut eaque earum, reprehenderit perferendis corporis ipsum minima
+                            quas dicta iusto modi, \
+                            <br />
+                            3. praesentium impedit fuga. Deleniti, ab sunt.
+                            <br />4. &Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate, suscipit
+                            sapien
+                            <br />5. te laborum magni culpa hic velit assumenda? Ducimus omnis numquam dicta distinctio
+                            ex, o
+                            <br />6.bcaecati eveniet deleniti, eaque neque accusantium incidunt?
+                          </font>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td height="100" valign="middle" colspan="2">
+                          <font face="arial" size="5" color="#f3971b" align="center">Interpersonal Skills
+                          </font>
+                          <br />
+                          <font face="arial" size="4" color="#ffffff" align="center">1.&Lorem ipsum dolor sit amet
+                            consectetur adipisicing elit. Porro eligendi
+                            <br />2.quibusdam similique aut eaque earum, reprehenderit perferendis corporis ipsum minima
+                            quas dicta iusto modi, \
+                            <br />
+                            3. praesentium impedit fuga. Deleniti, ab sunt.
+                            <br />4. &Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate, suscipit
+                            sapien
+                            <br />5. te laborum magni culpa hic velit assumenda? Ducimus omnis numquam dicta distinctio
+                            ex, o
+                            <br />6.bcaecati eveniet deleniti, eaque neque accusantium incidunt?
+                          </font>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+          </tr>
+          <!-- Heading activities Ends-->
+        </table>
+      </td>
+    </tr>
+  </table>
+  <!-- end activities and interpersonal skills -->
+
+  <!-- start footer - contact  -->
+  <table border="0" id="contact" width="100%" cellpadding="0" cellspacing="0" bgcolor="#353535">
+    <tr>
+      <td>
+        <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center" height="150">
+
+          <tr>
+            <td width="33.33%" valign="top">
+              <table border="0" width="100%" cellpadding="15" cellspacing="0" align="center">
+                <tr>
+                  <td align="center" valign="top">
+                    <font color="#f3971b" size="6">
+                      <span class="fa fa-phone"></span>
+                    </font>
+                    <br /><br />
+                    <font color="#ffffff" size="5" face="arial">
+                      Phone No
+                    </font>
+                    <p>
+                      <font color="#c2c0c3" size="3" face="arial">
+                        +91 9876217785
+                      </font>
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+
+            <td width="33.33%" valign="top">
+              <table border="0" width="100%" cellpadding="15" cellspacing="0" align="center">
+                <tr>
+                  <td align="center" valign="top">
+                    <font color="#f3971b" size="6">
+                      <span class="fa fa-envelope"></span>
+                    </font>
+                    <br /><br />
+                    <font color="#ffffff" size="5" face="arial">
+                      Email
+                    </font>
+                    <p>
+                      <a href="mailto:sehajkahlon437@gmail.com">
+                        <font color="#c2c0c3" size="3" face="arial">
+                          sehajkahlon437@gmail.com
+                        </font>
+                      </a>
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+
+            <td width="33.33%" valign="top">
+              <table border="0" width="100%" cellpadding="15" cellspacing="0" align="center">
+                <tr>
+                  <td align="center" valign="top">
+                    <font color="#f3971b" size="6">
+                      <span class="fa fa-map-marker"></span>
+                    </font>
+                    <br /><br />
+                    <font color="#ffffff" size="5" face="arial">
+                      Location
+                    </font>
+                    <p>
+                      <font color="#c2c0c3" size="3" face="arial">
+                        Chandigarh, India
+                      </font>
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="3">
+              <hr noshade>
             </td>
           </tr>
         </table>
       </td>
     </tr>
   </table>
+  <!-- end footer   -->
 </body>
 
 </html>
