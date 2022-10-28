@@ -113,14 +113,16 @@
                 </tr>
                 <tr>
                   <td>
-                    <font face="arial" size="5" color="#ffffff">Engineering Undergraduate Student from Punjab
+                    <font face="arial" size="5" color="#ffffff">Engineering Undergraduate Student
+                      from Punjab
                       Engineering College</font>
                   </td>
                 </tr>
                 <tr>
                   <td>
                     <p>
-                      <font face="arial" size="4" color="#c2c0c3">Lorem ipsum dolor sit amet consectetur adipisicing
+                      <font face="arial" size="4" color="#c2c0c3">Lorem ipsum dolor sit amet
+                        consectetur adipisicing
                         elit. Quidem
                         molestias, libero qui saepe corrupti facere quasi, iusto labore mollitia
                         vero recusandae perferendis, voluptatum minus esse dolore dicta alias
@@ -130,7 +132,8 @@
                         alias numquam veniam.</font>
                     </p>
                     <p>
-                      <font face="arial" size="4" color="#c2c0c3">Lorem ipsum dolor sit amet consectetur adipisicing
+                      <font face="arial" size="4" color="#c2c0c3">Lorem ipsum dolor sit amet
+                        consectetur adipisicing
                         elit. Quidem
                         molestias, libero qui saepe corrupti facere quasi, iusto labore mollitia
                         vero recusandae perferendis, voluptatum minus esse dolore dicta alias
@@ -182,7 +185,7 @@
                 <!-- Heading skills Ends-->
                 <tr>
                   <td width="10%" align="centre" valign="top">
-                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
                       <tr>
                         <td align="center" valign="middle" bgcolor="#353535" height="15" width="10">
                           <font size="6" color="#f3971b">
@@ -198,7 +201,7 @@
                     </table>
                   </td>
                   <td width="10%" align="centre" valign="top">
-                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
                       <tr>
                         <td align="center" valign="middle" bgcolor="#353535" height="15">
                           <font size="6" color="#f3971b">
@@ -210,7 +213,7 @@
                     </table>
                   </td>
                   <td width="10%" align="centre" valign="top">
-                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
                       <tr>
                         <td align="center" valign="middle" bgcolor="#353535" height="15">
                           <font size="6" color="#f3971b">
@@ -222,7 +225,7 @@
                     </table>
                   </td>
                   <td width="10%" align="centre" valign="top">
-                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
                       <tr>
                         <td align="center" valign="middle" bgcolor="#353535" height="15">
                           <font size="6" color="#f3971b">
@@ -234,7 +237,7 @@
                     </table>
                   </td>
                   <td width="10%" align="centre" valign="top">
-                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
                       <tr>
                         <td align="center" valign="middle" bgcolor="#353535" height="15">
                           <font size="6" color="#f3971b">
@@ -249,7 +252,7 @@
                 <!-- 2nd row of skills-->
                 <tr>
                   <td width="10%" align="centre" valign="top">
-                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
                       <tr>
                         <td align="center" valign="middle" bgcolor="#353535" height="15" width="10">
                           <font size="6" color="#f3971b">
@@ -261,7 +264,7 @@
                     </table>
                   </td>
                   <td width="10%" align="centre" valign="top">
-                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
                       <tr>
                         <td align="center" valign="middle" bgcolor="#353535" height="15" width="10">
                           <font size="6" color="#f3971b">
@@ -273,7 +276,7 @@
                     </table>
                   </td>
                   <td width="10%" align="centre" valign="top">
-                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
                       <tr>
                         <td align="center" valign="middle" bgcolor="#353535" height="15">
                           <font size="6" color="#f3971b">
@@ -285,27 +288,29 @@
                     </table>
                   </td>
                   <td width="10%" align="centre" valign="top">
-                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
                       <tr>
                         <td align="center" valign="middle" bgcolor="#353535" height="15">
                           <font size="6" color="#f3971b">
                             <i class="fa-solid fa-robot"></i>
 
                           </font>
-                          <font size="5" color="#ffffff" face="arial"> Artificial Intelligence (Basic) </font>
+                          <font size="5" color="#ffffff" face="arial"> Artificial Intelligence
+                            (Basic) </font>
                         </td>
                       </tr>
                     </table>
                   </td>
                   <td width=" 10%" align="centre" valign="top">
-                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
                       <tr>
                         <td align="center" valign="middle" bgcolor="#353535" height="15">
                           <font size="6" color="#f3971b">
 
                             <i class="fa-solid fa-desktop"></i>
                           </font>
-                          <font size="5" color="#ffffff" face="arial"> Machine Learning (Basic)</font>
+                          <font size="5" color="#ffffff" face="arial"> Machine Learning
+                            (Basic)</font>
                         </td>
                       </tr>
                     </table>
@@ -315,7 +320,7 @@
                 <!-- 3rd row of skills -->
                 <tr>
                   <td width="10%" align="centre" valign="top">
-                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
                       <tr>
                         <td align="center" valign="middle" bgcolor="#353535" height="15">
                           <font size="6" color="#f3971b">
@@ -327,7 +332,7 @@
                     </table>
                   </td>
                   <td width="10%" align="centre" valign="top">
-                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
                       <tr>
                         <td align="center" valign="middle" bgcolor="#353535" height="15">
                           <font size="6" color="#f3971b">
@@ -339,7 +344,7 @@
                     </table>
                   </td>
                   <td width="10%" align="centre" valign="top">
-                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
                       <tr>
                         <td align="center" valign="middle" bgcolor="#353535" height="15" width="10">
                           <font size="6" color="#f3971b">
@@ -363,7 +368,7 @@
     <tr>
       <td>
         <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center" bgcolor="#404040">
-          <!-- Heading skills Start -->
+          <!-- Heading interests Start -->
           <tr>
             <td>
               <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
@@ -373,34 +378,36 @@
                     <hr width="70" color="#f3971b" />
                   </td>
                 </tr>
-                <!-- Heading skills Ends-->
+                <!-- Heading interests Ends-->
                 <tr>
                   <td width="10%" align="centre" valign="top">
-                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
                       <tr>
                         <td align="center" valign="middle" bgcolor="#353535" height="15" width="10">
                           <font size="6" color="#f3971b">
                             <i class="fa-regular fa-file-code"></i>
                           </font>
-                          <font size="5" color="#ffffff" face="arial">Competitive Programming </font>
+                          <font size="5" color="#ffffff" face="arial">Competitive Programming
+                          </font>
                         </td>
                       </tr>
                     </table>
                   </td>
                   <td width="10%" align="centre" valign="top">
-                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
                       <tr>
                         <td align="center" valign="middle" bgcolor="#353535" height="15">
                           <font size="6" color="#f3971b">
                             <i class="fa-solid fa-window-maximize"></i>
                           </font>
-                          <font size="5" color="#ffffff" face="arial"> Website Development </font>
+                          <font size="5" color="#ffffff" face="arial"> Website Development
+                          </font>
                         </td>
                       </tr>
                     </table>
                   </td>
                   <td width="10%" align="centre" valign="top">
-                    <table border="0" width="100% cellpadding"="15" cellspacing="0" align="centre">
+                    <table border="0" width="100%" cellpadding="15" cellspacing="0" align="centre">
                       <tr>
                         <td align="center" valign="middle" bgcolor="#353535" height="15">
                           <font size="6" color="#f3971b">
@@ -552,9 +559,11 @@
                           </font>
                           <font size="5" color="#ffffff" face="arial">Project 1 </font>
                           <br />
-                          <font size="3" color="#ffffff">&Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                          <font size="3" color="#ffffff">&Lorem ipsum dolor sit amet
+                            consectetur adipisicing elit.
                             Similique animi odit fuga
-                            veritatis. Consequatur dolor fugit nam eveniet earum omnis nulla vitae sed ea a. Temporibus
+                            veritatis. Consequatur dolor fugit nam eveniet earum omnis nulla
+                            vitae sed ea a. Temporibus
                             fuga odit ipsam neque.</font>
                         </td>
                       </tr>
@@ -569,9 +578,11 @@
                           </font>
                           <font size="5" color="#ffffff" face="arial">Project 2 </font>
                           <br />
-                          <font size="3" color="#ffffff">&Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                          <font size="3" color="#ffffff">&Lorem ipsum dolor sit amet
+                            consectetur adipisicing elit.
                             Similique animi odit fuga
-                            veritatis. Consequatur dolor fugit nam eveniet earum omnis nulla vitae sed ea a. Temporibus
+                            veritatis. Consequatur dolor fugit nam eveniet earum omnis nulla
+                            vitae sed ea a. Temporibus
                             fuga odit ipsam neque.</font>
                         </td>
                       </tr>
@@ -586,9 +597,11 @@
                           </font>
                           <font size="5" color="#ffffff" face="arial">Project 3</font>
                           <br />
-                          <font size="3" color="#ffffff">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                          <font size="3" color="#ffffff">Lorem ipsum dolor sit amet
+                            consectetur adipisicing elit.
                             Similique animi odit fuga
-                            veritatis. Consequatur dolor fugit nam eveniet earum omnis nulla vitae sed ea a. Temporibus
+                            veritatis. Consequatur dolor fugit nam eveniet earum omnis nulla
+                            vitae sed ea a. Temporibus
                             fuga odit ipsam neque.</font>
                         </td>
                       </tr>
@@ -616,7 +629,8 @@
                 bgcolor="#292929">
                 <tr>
                   <td height="120" align="center" valign="middle" colspan="2">
-                    <font face="arial" size="6" color="#f3971b" align="center">Activities and Interpersonal Skills
+                    <font face="arial" size="6" color="#f3971b" align="center">Activities and
+                      Interpersonal Skills
                     </font>
                     <hr width="400" color="#f3971b" />
                   </td>
@@ -630,39 +644,51 @@
                       bgcolor="#353535">
                       <tr>
                         <td height="100" valign="middle" colspan="2">
-                          <font face="arial" size="5" color="#f3971b" align="center">Activities
+                          <font face="arial" size="5" color="#f3971b" align="center">
+                            Activities
                           </font>
                           <br />
-                          <font face="arial" size="4" color="#ffffff" align="center">1.&Lorem ipsum dolor sit amet
+                          <font face="arial" size="4" color="#ffffff" align="center">1.&Lorem
+                            ipsum dolor sit amet
                             consectetur adipisicing elit. Porro eligendi
-                            <br />2.quibusdam similique aut eaque earum, reprehenderit perferendis corporis ipsum minima
+                            <br />2.quibusdam similique aut eaque earum, reprehenderit
+                            perferendis corporis ipsum minima
                             quas dicta iusto modi, \
                             <br />
                             3. praesentium impedit fuga. Deleniti, ab sunt.
-                            <br />4. &Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate, suscipit
+                            <br />4. &Lorem ipsum, dolor sit amet consectetur adipisicing
+                            elit. Voluptate, suscipit
                             sapien
-                            <br />5. te laborum magni culpa hic velit assumenda? Ducimus omnis numquam dicta distinctio
+                            <br />5. te laborum magni culpa hic velit assumenda? Ducimus
+                            omnis numquam dicta distinctio
                             ex, o
-                            <br />6.bcaecati eveniet deleniti, eaque neque accusantium incidunt?
+                            <br />6.bcaecati eveniet deleniti, eaque neque accusantium
+                            incidunt?
                           </font>
                         </td>
                       </tr>
                       <tr>
                         <td height="100" valign="middle" colspan="2">
-                          <font face="arial" size="5" color="#f3971b" align="center">Interpersonal Skills
+                          <font face="arial" size="5" color="#f3971b" align="center">
+                            Interpersonal Skills
                           </font>
                           <br />
-                          <font face="arial" size="4" color="#ffffff" align="center">1.&Lorem ipsum dolor sit amet
+                          <font face="arial" size="4" color="#ffffff" align="center">1.&Lorem
+                            ipsum dolor sit amet
                             consectetur adipisicing elit. Porro eligendi
-                            <br />2.quibusdam similique aut eaque earum, reprehenderit perferendis corporis ipsum minima
+                            <br />2.quibusdam similique aut eaque earum, reprehenderit
+                            perferendis corporis ipsum minima
                             quas dicta iusto modi, \
                             <br />
                             3. praesentium impedit fuga. Deleniti, ab sunt.
-                            <br />4. &Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate, suscipit
+                            <br />4. &Lorem ipsum, dolor sit amet consectetur adipisicing
+                            elit. Voluptate, suscipit
                             sapien
-                            <br />5. te laborum magni culpa hic velit assumenda? Ducimus omnis numquam dicta distinctio
+                            <br />5. te laborum magni culpa hic velit assumenda? Ducimus
+                            omnis numquam dicta distinctio
                             ex, o
-                            <br />6.bcaecati eveniet deleniti, eaque neque accusantium incidunt?
+                            <br />6.bcaecati eveniet deleniti, eaque neque accusantium
+                            incidunt?
                           </font>
                         </td>
                       </tr>
