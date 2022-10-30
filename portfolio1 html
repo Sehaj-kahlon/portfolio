@@ -113,44 +113,76 @@
                 </tr>
                 <tr>
                   <td>
-                    <font face="arial" size="5" color="#ffffff">Engineering Undergraduate Student
-                      from Punjab
-                      Engineering College</font>
+                    <font face="arial" size="5" color="#ffffff"> An Engineering Undergraduate Student
+                      from <a href="https://pec.ac.in/">Punjab Engineering College,Chandigarh</a>
+                    </font>
                   </td>
                 </tr>
                 <tr>
                   <td>
                     <p>
-                      <font face="arial" size="4" color="#c2c0c3">Lorem ipsum dolor sit amet
-                        consectetur adipisicing
-                        elit. Quidem
-                        molestias, libero qui saepe corrupti facere quasi, iusto labore mollitia
-                        vero recusandae perferendis, voluptatum minus esse dolore dicta alias
-                        numquam veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Quidem molestias, libero qui saepe corrupti facere quasi, iusto labore
-                        mollitia vero recusandae perferendis, voluptatum minus esse dolore dicta
-                        alias numquam veniam.</font>
+                      <font face="arial" size="4" color="#c2c0c3">Department of Electrical Engineering - 2nd year
+                      </font>
                     </p>
                     <p>
-                      <font face="arial" size="4" color="#c2c0c3">Lorem ipsum dolor sit amet
-                        consectetur adipisicing
-                        elit. Quidem
-                        molestias, libero qui saepe corrupti facere quasi, iusto labore mollitia
-                        vero recusandae perferendis, voluptatum minus esse dolore dicta alias
-                        numquam veniam.Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Quidem molestias, libero qui saepe corrupti facere quasi, iusto labore
-                        mollitia vero recusandae perferendis, voluptatum minus esse dolore dicta
-                        alias numquam veniam.</font>
+                      <font face="arial" size="4" color="#c2c0c3">
+                        <h3>Educatoinal Qualifications</h3>
+                        <table style="width:100%">
+                          <tr>
+                            <td><u>Year</u></td>
+                            <td><u>School/Institute</u></td>
+                            <td><u>Degree</u></td>
+                            <td><u>%age/CGPA</u></td>
+                          </tr>
+                          <tr>
+                            <td></td>
+                            <td></td>
+                            <td> </td>
+                            <td></td>
+                          </tr>
+                          <tr>
+                            <td>2025</td>
+                            <td>Punjab Engineerind College</td>
+                            <td>B.Tech - EE </td>
+                            <td>--</td>
+                          </tr>
+                          <tr>
+                            <td></td>
+                            <td></td>
+                            <td> </td>
+                            <td></td>
+                          </tr>
+                          <tr>
+                            <td>2021</td>
+                            <td>GMSS - 37B CHD</td>
+                            <td>10+2</td>
+                            <td>93%</td>
+                          </tr>
+                          <tr>
+                            <td></td>
+                            <td></td>
+                            <td> </td>
+                            <td></td>
+                          </tr>
+                          <tr>
+                            <td>2019</td>
+                            <td>Sharda Sarvhitkari model sen sec school</td>
+                            <td>Matric</td>
+                            <td>96.6%</td>
+                          </tr>
+                        </table>
+                      </font>
                     </p>
                     <hr nonshade />
                     <br />
-                    <button type="button">
+
+                    <!-- <button type="button">
                       <font face="arial" size="5">Download CV</font>
                     </button>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <button type="button">
                       <font face="arial" size="5">Certificates</font>
-                    </button>
+                    </button> -->
                   </td>
                 </tr>
               </table>
@@ -648,22 +680,15 @@
                             Activities
                           </font>
                           <br />
-                          <font face="arial" size="4" color="#ffffff" align="center">1.&Lorem
-                            ipsum dolor sit amet
-                            consectetur adipisicing elit. Porro eligendi
-                            <br />2.quibusdam similique aut eaque earum, reprehenderit
-                            perferendis corporis ipsum minima
-                            quas dicta iusto modi, \
+                          <font face="arial" size="4" color="#ffffff" align="center">
+                            1. Actively participated in programming events in college
                             <br />
-                            3. praesentium impedit fuga. Deleniti, ab sunt.
-                            <br />4. &Lorem ipsum, dolor sit amet consectetur adipisicing
-                            elit. Voluptate, suscipit
-                            sapien
-                            <br />5. te laborum magni culpa hic velit assumenda? Ducimus
-                            omnis numquam dicta distinctio
-                            ex, o
-                            <br />6.bcaecati eveniet deleniti, eaque neque accusantium
-                            incidunt?
+                            2. Built a Document management system in a 24 hr Hackathon organised by STG
+                            <br />
+                            3. Partcipated in Hackathon organised by IEEE
+                            <br />4. Active in Competitive Programming on codechef, coforces and atcoder
+                            <br />5. Active problem solver on codechef
+                            <br />6. Active contributor in opensource projects
                           </font>
                         </td>
                       </tr>
@@ -673,22 +698,22 @@
                             Interpersonal Skills
                           </font>
                           <br />
-                          <font face="arial" size="4" color="#ffffff" align="center">1.&Lorem
-                            ipsum dolor sit amet
-                            consectetur adipisicing elit. Porro eligendi
-                            <br />2.quibusdam similique aut eaque earum, reprehenderit
-                            perferendis corporis ipsum minima
-                            quas dicta iusto modi, \
+                          <font face="arial" size="4" color="#ffffff" align="center">
+                            1. Good presentation skills
                             <br />
-                            3. praesentium impedit fuga. Deleniti, ab sunt.
-                            <br />4. &Lorem ipsum, dolor sit amet consectetur adipisicing
-                            elit. Voluptate, suscipit
-                            sapien
-                            <br />5. te laborum magni culpa hic velit assumenda? Ducimus
-                            omnis numquam dicta distinctio
-                            ex, o
-                            <br />6.bcaecati eveniet deleniti, eaque neque accusantium
-                            incidunt?
+                            2. Ability to listen carefully and give ideas
+                            <br />
+                            3. Ability to work in a team
+                            <br />
+                            <br />
+                            ⭐ <u>Hobbies/Interests</u> -
+                            <br />
+                            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Browsing on Internet to get updates with current affairs and
+                            issues
+                            <br />
+                            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Playing Badminton
+                            <br />
+                            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Finding tech solutions to real worls problems
                           </font>
                         </td>
                       </tr>
