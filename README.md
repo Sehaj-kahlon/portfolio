@@ -1,4 +1,4 @@
-👋 Hi, I'm Sehaj 
+👋 <h2> Hi, I'm Sehaj </h3>
 
 I am a 2nd year student at Punjab Engineering College, Chandigarh. I am pursuing Btech in Electrical Engineering. 
 I like to explore diffrent fields in the software industry. 
